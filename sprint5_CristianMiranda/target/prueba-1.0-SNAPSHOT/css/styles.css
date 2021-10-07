@@ -1,0 +1,70 @@
+body {
+  font-size: 15px;
+  /*color: #fff;*/
+  background-color: #9ce692 !important;
+  font-family: 'sans-serif';
+}
+
+
+/** HEADER **/
+
+#header-nav {
+  background-color: #19E601;
+  /*border-radius: 0;
+  border: 1px solid black;*/
+}
+
+#logo-img {
+  background: url('../img/symbol.png') no-repeat;
+  width: 130px;
+  height: 130px;
+  margin: 10px 15px 10px 0;
+}
+
+.navbar-brand > a > h1 {
+  font-size: 4em;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list{
+  margin-top: 30px;
+}
+
+#nav-list>li>a{
+  font-size: 30px;
+}
+
+#nav-list .glyphicon-floppy-save{
+  color: red;
+  font-size: xxx-large;
+  /*position: relative;
+  top: 100px;
+  left: 50%;*/
+  /*display: flex;*/
+
+}
+
+#nav-list .glyphicon-eye-open{
+  color: red;
+  font-size: xxx-large;
+}
+
+#nav-list .glyphicon-home{
+  color: red;
+  font-size: xxx-large;
+}
+
+/*section*/
+
+#main-title{
+  color: blue;
+  font-size: 50px;
+}
+
+.home-content > .botones a:hover, .home-content >.botones a:focus {
+  text-decoration: none;
+}
+
